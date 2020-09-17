@@ -1,0 +1,16 @@
+PODS:
+  - secp256k1 (0.2.5)
+
+DEPENDENCIES:
+  - secp256k1 (from `../`)
+
+EXTERNAL SOURCES:
+  secp256k1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  secp256k1: a52a7468df642ad54d704d9e60939a780523f545
+
+PODFILE CHECKSUM: 0919e03d6f1ec77c27f30456cc86aaf2f2c33e6c
+
+COCOAPODS: 1.9.3

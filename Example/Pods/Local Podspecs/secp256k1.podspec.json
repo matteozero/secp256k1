@@ -1,0 +1,29 @@
+{
+  "name": "secp256k1",
+  "version": "0.2.5",
+  "summary": "A short description of secp256k1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/matteozero/secp256k1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "matteo": "851045786@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/matteozero/secp256k1.git",
+    "tag": "0.2.5"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": [
+    "5.3"
+  ],
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES"
+  },
+  "source_files": "secp256k1/Classes/secp256k1/*.swift",
+  "swift_version": "5.3"
+}

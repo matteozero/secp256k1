@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'secp256k1'
-  s.version          = '0.2.5'
+  s.version          = '0.2.6'
   s.summary          = 'A short description of secp256k1.'
   s.description      = <<-DESC
   TODO: Add long description of the pod here.

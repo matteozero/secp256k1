@@ -1,5 +1,5 @@
 PODS:
-  - secp256k1 (0.2.5)
+  - secp256k1 (0.2.6)
 
 DEPENDENCIES:
   - secp256k1 (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  secp256k1: 1cdb212ebdd2d7baec63f76f67ca10dea2d30a2e
+  secp256k1: bc324c85e984e40fa6fa99da9d04b5f6f7ff0c72
 
 PODFILE CHECKSUM: 0919e03d6f1ec77c27f30456cc86aaf2f2c33e6c
 

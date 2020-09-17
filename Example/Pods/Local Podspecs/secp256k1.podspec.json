@@ -1,6 +1,6 @@
 {
   "name": "secp256k1",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A short description of secp256k1.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/matteozero/secp256k1",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/matteozero/secp256k1.git",
-    "tag": "0.2.5"
+    "tag": "0.2.6"
   },
   "platforms": {
     "ios": "13.0"

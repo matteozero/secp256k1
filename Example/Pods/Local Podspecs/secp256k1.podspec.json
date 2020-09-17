@@ -24,6 +24,6 @@
   "pod_target_xcconfig": {
     "DEFINES_MODULE": "YES"
   },
-  "source_files": "secp256k1/Classes/secp256k1/*.swift",
+  "source_files": "secp256k1/Classes/**/*.swift",
   "swift_version": "5.3"
 }
